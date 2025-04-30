@@ -77,7 +77,7 @@ image_path="https://sc0.blr1.digitaloceanspaces.com/large/829013-51163-wrquznbrh
  
 
 
-styled_caption = '<p style="font-size: 18px; color: #aaa;">🇮🇳 made with love by <a href="https://www.linkedin.com/in/basantsingh1000/">Basant Singh</a> powered by <a href="https://github.com/embedchain/embedchain">Embedchain</a></p>'  # noqa: E501
+styled_caption = '<p style="font-size: 18px; color: #aaa;">🇮🇳 made with love by <a href="www.linkedin.com/in/arpit-jaiswal-776366229">Arpit Jaiswal</a> powered by <a href="https://github.com/embedchain/embedchain">Embedchain</a></p>'  # noqa: E501
 st.markdown(styled_caption, unsafe_allow_html=True)  
 
 if "messages" not in st.session_state:
